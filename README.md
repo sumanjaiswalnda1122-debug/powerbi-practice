@@ -1,1 +1,1 @@
-# powerbi-practice
+#  power-query-error-practice
